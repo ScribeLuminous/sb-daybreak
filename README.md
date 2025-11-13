@@ -1,13 +1,10 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Daybreak
 
-Description of the app ...
+A machine learning app that will predict your Stress and Burnout levels. Provide you with insights and tools that will help you get by daily.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sb-daybreak.streamlit.app/)
 
 ## GitHub Codespaces
 
